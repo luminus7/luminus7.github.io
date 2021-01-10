@@ -6,6 +6,7 @@ categories:
     - Blog
 tags:
     - Blog
+    - Markdown
 last_mod_at: 2021-01-06T08:08:00-05:00
 ---
 
