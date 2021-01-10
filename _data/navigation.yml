@@ -1,9 +1,13 @@
 # main links
+# 블로그 내에서 '_pages' dir안에 만든 md파일들의 permlink, 혹은 외부링크 둘다 가능.
 main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "About"
+    url: https://luminus7.github.io/about/
+  #  url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Linux Kernel"
+    url: https://luminus7.github.io/linux/kernel
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
