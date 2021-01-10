@@ -75,7 +75,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : /assets/images/teaser.jpg # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -92,18 +92,21 @@ analytics:
 
 
 # Site Author
+# LHS sidebar, containing info of auther
 author:
   name             : "Luminus7"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "assets/images/teaset.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Undergraduate student, Chung-Ang Univ."
   location         : "Seoul.Korea"
-  email            : "isangjin77@gmail.com"
+  email            : #"isangjin77@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:isangjin77@gmail.com"
       # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
+      url: "https://luminus7.github.io/"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -113,6 +116,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
+      url: "https://github.com/luminus7"
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
