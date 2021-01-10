@@ -7,6 +7,8 @@ categories:
 tags:
     - Blog
 last_mod_at: 2021-01-06T08:06:00-05:00
+toc: true
+toc_sticky: true
 ---
 
 GitHub Blog 서비스인 github.io 블로그를 시작하기로 했다.

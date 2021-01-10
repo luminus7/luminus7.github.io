@@ -1,13 +1,14 @@
 ---
 title: "Basic Markdown 문법"
 excerpt: "기본적인 Markdown 문법을 정리해본다."
-
 categories:
     - Blog
 tags:
     - Blog
     - Markdown
 last_mod_at: 2021-01-06T08:08:00-05:00
+toc: true
+toc_sticky: true
 ---
 
 기본적인 텍스트 표기 방식이다.
