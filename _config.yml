@@ -283,11 +283,11 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
-  
-  # SJ Lee 2021.01.10
+
+# SJ Lee 2021.01.10
   # _pages
   - scope:
       path: ""
